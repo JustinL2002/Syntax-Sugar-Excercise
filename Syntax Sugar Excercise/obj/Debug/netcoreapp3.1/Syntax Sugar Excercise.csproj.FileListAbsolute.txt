@@ -1,0 +1,14 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.runtimeconfig.dev.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\bin\Debug\netcoreapp3.1\Syntax Sugar Excercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\Syntax Sugar Excercise\Syntax Sugar Excercise\obj\Debug\netcoreapp3.1\Syntax Sugar Excercise.genruntimeconfig.cache
